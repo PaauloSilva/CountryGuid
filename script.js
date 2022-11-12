@@ -56,7 +56,7 @@ searchBtn.addEventListener("click", () => {
         `;
     }).catch(() => {
         if(countryName.length == 0){
-            result.innerHTML=`<h3>* O campo não pode ficar vazio.</h3>`;
+            result.innerHTML=`<h3>*O campo não pode ficar vazio.</h3>`;
             //The input field cannot be empty.
         }
         else{

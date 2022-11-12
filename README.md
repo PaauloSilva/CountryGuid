@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="country guid" src="./Capa.jpg" width="100%">
+  <img alt="country guid" src=".Capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
